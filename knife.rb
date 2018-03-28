@@ -5,4 +5,4 @@ knife[:aws_credential_file] = "/home/centos/aws.txt"
 # cookbook_path ["#{current_dir}/cookbooks"]
 cookbook_path ['~/chef-repo/cookbooks']
 client_key '~/chef-repo/.chef/aws.txt'
-chef_server_url `https://172.31.2.181/coveros_test/mtaylor`
+chef_server_url `https://172.31.2.181/`
